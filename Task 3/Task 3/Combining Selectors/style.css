@@ -1,0 +1,18 @@
+h1{
+    color: green;
+}
+h2{
+    color: green;
+}
+.box p{
+    color: red;
+}
+ul.list{
+    color: blue;
+}
+ul.list .done{
+    color:lightseagreen;
+}
+ul p{
+    font-size: small;
+}
